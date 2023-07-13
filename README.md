@@ -1,5 +1,5 @@
-### Olá mundo! Eu sou Erika! 👋 ## :smiley: 
-##
+### Olá mundo! Eu sou Erika! 👋 
+## :smiley: 
 ##  👩‍🎓 Formação acadêmica
 
 - 👩‍🎓 Cursando MBA em Defesa Cibernética.
