@@ -10,6 +10,10 @@
 - 📚 Atualmente estou aprendendo Microsoft SQL e Linux.
 - 🌱 Estudando Python, C#, HTML, CSS, PHP, JavaScript e SQL.
   
+##
+ ![Snake animation](https://github.com/erikafrochati/erikafrochati/blob/main/github-contribution-grid-snake.svg)
+##
+
 ## 👩 Um pouco sobre mim:
 - 📫 Como chegar até mim: https://www.linkedin.com/in/erikafrocha/
 - ⚡ Curiosidades:
