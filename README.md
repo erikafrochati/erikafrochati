@@ -1,4 +1,4 @@
-### Olá mundo! Eu sou Erika! 👋 
+### Olá, Mundo! Eu sou Erika! 👋 
 ## :smiley: 
 
 <img align="top" alt="erika-batman" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-batman-2.gif"><br>
