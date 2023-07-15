@@ -1,5 +1,7 @@
-# :smiley: *Olá, Mundo!* Eu sou Erika! 👋 
+# :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> *Olá, Mundo!* Eu sou Erika! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 ***
+
 <img align="center" alt="erika-batman" height="450" width="900" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-batman-2.gif"><br>
 
 ## 👩  *Um pouco sobre mim:*
