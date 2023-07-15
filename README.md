@@ -15,12 +15,11 @@
   
 ***
 
- <div>
-  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=erikafrochati&show_icons=true&theme=radical" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikafrochati&layout=compact" />
- </div>
+  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=erikafrochati&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikafrochati&layout=compact"/>
 
- ***
+***
+
 ## 🚀 *Languages and Tools:*
 <p align="left">
 <img  alt="Erika-github" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
