@@ -16,9 +16,8 @@
 ***
 
  <div>
-  <a href="https://github.com/erikafrochati">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikafrochati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikafrochati&layout=compact&langs_count=16&theme=dark"/>
+  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=erikafrochati&show_icons=true&theme=radical" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikafrochati&layout=compact" />
  </div>
 
  ***
