@@ -15,8 +15,8 @@
   
 ***
 
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=erikafrochati&show_icons=true&theme=radical"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikafrochati&layout=compact"/>
+ <img align="left" height="190em" src="https://github-readme-stats.vercel.app/api?username=erikafrochati&show_icons=true&theme=radical"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikafrochati&layout=compact"/>
 
 ***
 
