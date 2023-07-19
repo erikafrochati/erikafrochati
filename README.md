@@ -9,7 +9,9 @@ Cora Coralina
 
 ***
 
-<img align="center" alt="erika-batman" height="450" width="900" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-batman-2.gif"><br>
+<div align="center">
+<img align="middle" alt="erika-batman" height="540" width="740" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-batman-2.gif"><br>
+</div>
 
 ## 👩  *Um pouco sobre mim:*
 ***
@@ -21,6 +23,7 @@ Cora Coralina
 - 🚵  Gosto de andar de bicicleta.
   
 ***
+## 🛩️🖥️*Estatísticas do GitHub*
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
