@@ -1,6 +1,9 @@
 # :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> *Olá, Mundo!* Eu sou Erika! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 __*Sou altamente motivada, disciplinada e profissional com grande paixão por tecnologia, conforme os avanços tecnológicos sigo avançando junto.Trabalho bem tanto individualmente como em equipe. Acredito que minhas habilidades ajudariam na expansão do mundo na tecnologia e quero fazer parte desse crescimento.*__
+
+<b><p>"Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu." Eclesiastes 3:1</p>
+
 <b><p>"O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim, terás o que colher."</p>
 Cora Coralina
 
