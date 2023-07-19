@@ -1,5 +1,9 @@
 # :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> *Olá, Mundo!* Eu sou Erika! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
+__*Sou altamente motivada, disciplinada e profissional com grande paixão por tecnologia, conforme os avanços tecnológicos sigo avançando junto.Trabalho bem tanto individualmente como em equipe. Acredito que minhas habilidades ajudariam na expansão do mundo na tecnologia e quero fazer parte desse crescimento.*__
+<b><p>"O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim, terás o que colher."</p>
+Cora Coralina
+
 ***
 
 <img align="center" alt="erika-batman" height="450" width="900" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-do-batman-2.gif"><br>
