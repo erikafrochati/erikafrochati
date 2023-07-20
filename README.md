@@ -34,8 +34,9 @@ Cora Coralina
 ***
 
 ## 🚀 *Languages and Tools:*
-<p align="left">
-<img  alt="Erika-github" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+<p align="left">             
+<img  alt="Erika-github" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12qoRG74lhQo80qaN3YZ9ebJEU9WMdZIBzg&usqp=CAU">
+<img  alt="Erika-git" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QbMk3u3vaLI77EprRtmXRD8b06zHuTjHaw&usqp=CAU">
 <img  alt="Erika-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img  alt="Erika-Visual Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
