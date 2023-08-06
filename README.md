@@ -66,7 +66,7 @@ Cora Coralina
   
 ***  
 
- ![Snake animation](https://github.com/erikafrochati/erikafrochati/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](Snake.gif)
  
 ***
 
