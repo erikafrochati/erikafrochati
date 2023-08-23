@@ -7,6 +7,8 @@ __*Sou altamente motivada, disciplinada e profissional com grande paixão por te
 <b><p>"O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim, terás o que colher."</p>
 Cora Coralina
 
+<b><p>"Feliz aquele que transfere o que sabe e aprende o que ensina."</p>
+Cora Coralina
 ***
 
 <div align="center">
