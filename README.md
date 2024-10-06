@@ -21,8 +21,8 @@ Cora Coralina
 - ⚡ __*Curiosidades:*__
 - 🖥️  Apaixonada por novas Tecnologias;
 - 📚  Ler bons livros;
-- 🎥  Adoro ver filmes e séries na Netflix;
-- 🚵  Gosto de andar de bicicleta.
+- 🎥  Adoro ver filmes e séries;
+- 🚵  Gosto de andar de bicicleta e nadar;
   
 ***
 ## 🛩️🖥️*Estatísticas do GitHub*
@@ -56,8 +56,9 @@ Cora Coralina
 
 ##  👩‍🎓  *Formação acadêmica:*
 
-- 👩‍🎓  Cursando MBA em Defesa Cibernética.
-- 👩‍🎓  Formada em Bacharelado em Ciência da Computação
+- 👩‍🎓  Bacharelado em Ciência da Computação;
+- 👩‍🎓  Pós Graduação em Data Science;
+- 👩‍🎓  MBA em Defesa Cibernética.
   
 ***
 
