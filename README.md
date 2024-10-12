@@ -25,6 +25,20 @@ Cora Coralina
 - 🚵  Gosto de andar de bicicleta e nadar;
   
 ***
+##  👩‍🎓  *Formação acadêmica:*
+
+- 👩‍🎓  Bacharelado em Ciência da Computação;
+- 👩‍🎓  Pós Graduação em Data Science;
+- 👩‍🎓  MBA em Defesa Cibernética.
+  
+***
+
+## 🚀  *Tecnologias Conhecidas e em Estudo:*
+
+- 📚  Atualmente estou aprendendo Microsoft SQL e Linux.
+- 🌱  Estudando Python, C#, HTML, CSS, PHP, JavaScript e SQL.
+
+***
 ## 🛩️🖥️*Estatísticas do GitHub*
 
 <div>
@@ -52,21 +66,6 @@ Cora Coralina
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <img align="center" alt="Erika-SQL Server"  "-" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></p>
 
-***
-
-##  👩‍🎓  *Formação acadêmica:*
-
-- 👩‍🎓  Bacharelado em Ciência da Computação;
-- 👩‍🎓  Pós Graduação em Data Science;
-- 👩‍🎓  MBA em Defesa Cibernética.
-  
-***
-
-## 🚀  *Tecnologias Conhecidas e em Estudo:*
-
-- 📚  Atualmente estou aprendendo Microsoft SQL e Linux.
-- 🌱  Estudando Python, C#, HTML, CSS, PHP, JavaScript e SQL.
-  
 ***  
 
  ![Snake animation](Snake.gif)
